@@ -1,7 +1,22 @@
 body {
-    background-color:#2cb;
+	background-color: #2b23aa;
+	background-opacity: 30%;
+	font-color: white;
+	font: arial white 12px;
 }
-.page-header {
-    height-max:300px;
-    width-max:500px:
+container {
+	font-color: white;
+	font-size: 12px;
+}
+svg {
+	max-height: 240px;
+	max-width: auto;
+	size: constrain;
+}
+.p {
+	font-color: white;
+}
+h3 {
+	font-style: arial #ffffff;
+	opacity: 80%;
 }
