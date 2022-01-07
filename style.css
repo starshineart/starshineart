@@ -25,7 +25,7 @@ figure:hover img {
   filter: grayscale(0);
 }
 svg {
-	height: 200px;
+	max-height: 350px;
 	position: relative;
 	margin: 0 auto;
 	display: block;
